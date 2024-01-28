@@ -1,0 +1,15 @@
+*{
+  margin:0; /*espaçamentos nos elementos externos*/
+  padding: 0;  /*espaçamento interno do objeto*/
+  box-sizing: border-box; 
+}
+
+ul{
+    list-style: none; /*tira o estilo de lista que é colocado como padrão*/
+
+}
+
+a{
+    text-decoration: none;
+    color: inherit; 
+}
